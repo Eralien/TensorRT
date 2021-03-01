@@ -7,3 +7,7 @@ build/
 *.sln
 *.vcxproj
 externals/
+
+.vscode/
+engines/
+**/.cache/**
